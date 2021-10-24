@@ -59,6 +59,7 @@ const Nav = styled.div`
   top: 0;
   left: 0;
  transition: .5s;
+ z-index: 999;
 
   &.isActive {
     background: var(--Color-1);
