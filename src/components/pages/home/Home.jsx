@@ -160,7 +160,7 @@ const DGrid = styled.div`
   }
 
   img {
-    width: 90%;
+    width: 100%;
   }
 
   &.opposite {
