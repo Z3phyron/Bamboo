@@ -4,3 +4,10 @@
     background-size: 1000px;
     background-repeat: no-repeat;
 }
+
+.opposite {
+    background-image: url("../../../assets/investbg.svg");
+    background-position: top 0px right -130px;
+    background-size: 650px;
+    background-repeat: no-repeat;
+}
